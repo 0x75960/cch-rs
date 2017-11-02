@@ -1,0 +1,6 @@
+[package]
+name = "cch"
+version = "0.1.0"
+authors = ["Hiromitsu Oshiba <h.oshiba.0117@gmail.com>"]
+
+[dependencies]
